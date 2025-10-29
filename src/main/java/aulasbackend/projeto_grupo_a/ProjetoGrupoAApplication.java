@@ -6,9 +6,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ProjetoGrupoAApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(ProjetoGrupoAApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(ProjetoGrupoAApplication.class, args);
+    }
 
-	// HELLO WORLD
+    // HELLO WORLD
 }
