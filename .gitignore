@@ -50,7 +50,3 @@ HELP.md
 local.properties
 target/
 tmp/
-# retirando o mysql-docker temporariamente
-compose.yaml
-mysql_data/mysql.sock
-mysql_data/ 

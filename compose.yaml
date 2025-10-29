@@ -1,0 +1,10 @@
+services:
+  mysql:
+    image: 'mysql:8.0'
+    environment:
+      - 'MYSQL_DATABASE=projeto_grupo_a'
+      - 'MYSQL_PASSWORD=12345678'
+      - 'MYSQL_ROOT_PASSWORD=12345678'
+      - 'MYSQL_USER=projeto_grupo_a'
+    ports:
+      - '3306:3306'

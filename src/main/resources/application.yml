@@ -5,7 +5,7 @@ spring:
   application:
     name: projeto_grupo_a
   profiles:
-    active: prod
+    active: dev
     default: dev
   jpa:
     open-in-view: true

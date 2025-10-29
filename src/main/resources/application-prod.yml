@@ -4,9 +4,9 @@
 spring:
   datasource:
     url: jdbc:h2:mem:testdb
-    driverClassName: org.h2.Driver
     username: h2db
     password: 12345678
+    driver-class-name: org.h2.Driver
   h2:
     console:
       enabled: true
