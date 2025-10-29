@@ -10,4 +10,5 @@ public class ProjetoGrupoAApplication {
 		SpringApplication.run(ProjetoGrupoAApplication.class, args);
 	}
 
+	// HELLO WORLD
 }
