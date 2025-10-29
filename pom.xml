@@ -8,7 +8,7 @@
 		<version>3.5.7</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.aulasbackend.grupoa</groupId>
+	<groupId>com.aulasbackend</groupId>
 	<artifactId>projeto_grupo_a</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>projeto_grupo_a</name>

@@ -1,4 +1,4 @@
-package com.aulasbackend.grupoa.projeto_grupo_a;
+package com.aulasbackend.projeto_grupo_a;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
