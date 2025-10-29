@@ -4,8 +4,20 @@
 spring:
   application:
     name: projeto_grupo_a
-  profiles:
-    active: dev
-    default: dev
+  datasource:
+    url: jdbc:mysql://localhost:3306/apispringboot
+    username: root
+    password: 12345678
+    driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     open-in-view: true
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  h2:
+    console:
+      enabled: true
+      path: /h2-console
+  output:
+    ansi:
+      enabled: always
