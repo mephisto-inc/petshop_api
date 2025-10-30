@@ -28,7 +28,6 @@
 .target
 .tern-project
 .texlipse
-.vscode/
 .worksheet
 *.bak
 *.iml

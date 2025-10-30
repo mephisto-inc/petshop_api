@@ -5,4 +5,4 @@ services:
       - 'MYSQL_DATABASE=projeto_grupo_a'
       - 'MYSQL_ROOT_PASSWORD=12345678'
     ports:
-      - '3306:3306'
+      - '3307:3306'

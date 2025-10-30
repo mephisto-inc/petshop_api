@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot Projeto do grupo A",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "aulasbackend.projeto_grupo_a.ProjetoGrupoAApplication",
+      "projectName": "projeto_grupo_a",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
