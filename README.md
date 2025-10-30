@@ -2,8 +2,8 @@
 
 
 # REQUERIMENTO PARA O PROJETO:
-- Docker - https://docs.docker.com/desktop/
-- Java 21 - Porem usar qualquer sabor de Java 21, em caso de duvidas usem o https://jdk.java.net/21/
+- Docker
+- Java 25
 
 
 # UML
