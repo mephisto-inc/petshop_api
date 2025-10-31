@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: petshop_api
+
+  datasource:
+    url: jdbc:mysql://localhost:3307/petshop_db
+    username: petshop_user
+    password: 12345678
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+
+logging:
+  level:
+    web: debug
+    
+    
