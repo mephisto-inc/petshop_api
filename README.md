@@ -7,5 +7,5 @@
 
 
 # UML
-![uml1](.docs/uml1.png)
-![uml2](.docs/uml2.png)
+![uml1](.docs/uml1_teoria.png)
+![uml2](.docs/uml2_teoria.png)
