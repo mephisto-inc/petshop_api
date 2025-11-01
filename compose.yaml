@@ -8,3 +8,5 @@ services:
       - MYSQL_USER=petshop_user
     ports:
       - 3307:3306
+    volumes:
+      - './aulasbackend_mysql:/var/lib/mysql'

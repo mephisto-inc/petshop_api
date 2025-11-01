@@ -4,7 +4,7 @@ spring:
 
   profiles:
     validate: true
-#    active: "h2" # COMENTE ESSA LINHA PARA DESLIGAR O BANCO DE DADOS EM MEMÓRIA.
+    active: "h2" # COMENTE ESSA LINHA PARA DESLIGAR O BANCO DE DADOS EM MEMÓRIA.
 
   datasource:
     username: petshop_user
